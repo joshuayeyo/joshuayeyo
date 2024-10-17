@@ -50,5 +50,8 @@
   [![Joshuayeyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuayeyo&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/joshuayeyo/github-readme-stats)
   [![Joshuayeyo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuayeyo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/joshuayeyo)
 
+#### 🏈Activities
+[2024] 카카오 테크 캠퍼스 2기
+
 
 </div>
