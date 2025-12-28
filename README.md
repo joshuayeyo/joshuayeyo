@@ -60,9 +60,7 @@
 
 [2024] 카카오 테크 캠퍼스 2기
 <br/>
-[2025] 코드잇 FE 단기심화 6기
-<br />
-[2025] 코드클럽 한국위원회 COUV 1팀
-<br />
 [2025] Google Developer Groups on Campus(GDGoC)
+<br />
+[2025] 항해 플러스 프론트엔드 7기
 </div>
